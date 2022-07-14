@@ -1,0 +1,27 @@
+baseURL = 'https://www.florio.dev/'
+languageCode = 'en-us'
+title = 'florio.dev'
+theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "Ciao! 👋"
+Content = """
+Welcome to my blog!  
+🔋 Powered by **Luca Florio**.  
+🎓 Computer Science PhD.   
+💻 Half-stack developer.  
+📚 Curious Learner.  
+🤓 Opinions are my own.
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/elleFlorio"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/elleflorio/"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/elleflorio"

@@ -1,7 +1,8 @@
 ---
 title: How to make a simple application with Akka Cluster
 date: "2019-02-26T16:08:00.000Z"
-description: "Time to go distributed! Let's discover how Akka Cluster can help us building a distributed, load-balanced application. Docker will take care of the deployment of a simple cluster. It's gonna be a lot of fun! 😄"
+description: "Let's discover how Akka Cluster can help us building a distributed, load-balanced application. Docker will take care of the deployment of a simple cluster. It's gonna be a lot of fun! 😄"
+summary: "Let's discover how Akka Cluster can help us building a distributed, load-balanced application. Docker will take care of the deployment of a simple cluster. It's gonna be a lot of fun! 😄"
 aliases: /20190226-akka-cluster-app/
 ---
 

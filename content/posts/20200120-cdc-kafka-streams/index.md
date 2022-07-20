@@ -2,6 +2,7 @@
 title: How to implement Change Data Capture using Kafka Streams
 date: "2020-01-20T16:10:00.000Z"
 description: "Using Change Data Capture we can make the changes written to a database available to other systems as they happens. Let's use Kafka Streams to implement it!"
+summary: "Using Change Data Capture we can make the changes written to a database available to other systems as they happens. Let's use Kafka Streams to implement it!"
 aliases: /20200120-cdc-kafka-streams/
 ---
 

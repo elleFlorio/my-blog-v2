@@ -2,6 +2,7 @@
 title: A letter to myself as a fresh software engineer
 date: "2020-03-28T16:30:00.000Z"
 description: "Dear Self, these are some tips I wish someone has given me when I started my career. With love, (a more experienced) you."
+summary: "Dear Self, these are some tips I wish someone has given me when I started my career. With love, (a more experienced) you."
 aliases: /20200328-letter-to-myself/
 ---
 

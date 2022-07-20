@@ -2,6 +2,7 @@
 title: A survival guide to the Either monad in Scala
 date: "2018-12-21T11:37:00.000Z"
 description: "The Either monad in Scala can be a though one, let's deal with it together!"
+summary: "The Either monad in Scala can be a though one, let's deal with it together!"
 aliases: /20181221-either-monad-scala/
 ---
 

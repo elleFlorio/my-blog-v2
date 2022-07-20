@@ -2,6 +2,7 @@
 title: Do it like an engineer
 date: "2019-06-20T13:01:00.000Z"
 description: "Solve problems is the core task of every Software Engineer. Let's understand how to do it in a pragmatic and effective way."
+summary: "Solve problems is the core task of every Software Engineer. Let's understand how to do it in a pragmatic and effective way."
 aliases: /20190620-do-it-engineer/
 ---
 

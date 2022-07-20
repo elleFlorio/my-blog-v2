@@ -2,6 +2,7 @@
 title: What's on my software engineering bookshelf
 date: "2019-10-27T17:29:00.000Z"
 description: "Nowadays there is a lot of source of information. Sometimes a book is the best choice for learning something new. We can keep it on the desk and go through it when needed. If you are wondering \"What should I read next?\", in this post you will find some suggestions! 😉"
+summary: "Nowadays there is a lot of source of information. Sometimes a book is the best choice for learning something new. We can keep it on the desk and go through it when needed. If you are wondering \"What should I read next?\", in this post you will find some suggestions! 😉"
 aliases: /20191027-software-engineering-bookshelf/
 ---
 

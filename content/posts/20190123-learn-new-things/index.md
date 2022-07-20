@@ -2,6 +2,7 @@
 title: How to effectively learn new things and enjoy it
 date: "2019-01-23T11:48:00.000Z"
 description: "Learn new things is important, but it is important to do it effectively and with pleasuer as well."
+summary: "Learn new things is important, but it is important to do it effectively and with pleasuer as well."
 aliases: /20190123-learn-new-things/
 ---
 

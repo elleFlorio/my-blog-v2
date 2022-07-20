@@ -2,6 +2,7 @@
 title: How to understand Scala variances by building restaurants
 date: "2019-07-24T12:34:00.000Z"
 description: "Type variance in Scala is an \"advanced\" topic worth to undertand. Let's try to get it using a food-based example!"
+summary: "Type variance in Scala is an \"advanced\" topic worth to undertand. Let's try to get it using a food-based example!"
 aliases: /20190724-scala-variances/
 ---
 

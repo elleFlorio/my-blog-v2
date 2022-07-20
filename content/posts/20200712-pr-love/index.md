@@ -2,6 +2,7 @@
 title: Give some ❤️ to your PR
 date: "2020-07-12T22:50:00.000Z"
 description: "Your PRs should be crafted in a proper way. This is important for your work, for your reviewers, and also for you. Let's find out why and how to give some ❤️ to your PR!"
+summary: "Your PRs should be crafted in a proper way. This is important for your work, for your reviewers, and also for you. Let's find out why and how to give some ❤️ to your PR!"
 aliases: /20200712-pr-love/
 ---
 

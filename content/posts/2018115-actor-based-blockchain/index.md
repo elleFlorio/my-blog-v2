@@ -2,6 +2,7 @@
 title: How to build a simple actor-based blockchain
 date: "2018-11-15T20:32:00.000Z"
 description: "Scalachain is a blockchain built using the Scala programming language and the actor model (Akka Framework)."
+summary: "Scalachain is a blockchain built using the Scala programming language and the actor model (Akka Framework)."
 aliases: /2018115-actor-based-blockchain/
 ---
 

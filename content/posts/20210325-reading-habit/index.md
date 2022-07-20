@@ -2,6 +2,7 @@
 title: Making a reading habit
 date: "2021-03-25T22:30:00.000Z"
 description: "Reading and keep up to date is fundamental for a Software Engineer. These are the tricks I'm using to make reading a daily habit!"
+summary: "Reading and keep up to date is fundamental for a Software Engineer. These are the tricks I'm using to make reading a daily habit!"
 aliases: /20210325-reading-habit/
 ---
 

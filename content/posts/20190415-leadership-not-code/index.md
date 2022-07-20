@@ -2,6 +2,7 @@
 title: Leadership is not made of code
 date: "2019-04-15T12:32:00.000Z"
 description: "Leadership is made of a lot of things, but for sure it is not made of code"
+summary: "Leadership is made of a lot of things, but for sure it is not made of code"
 aliases: /20190415-leadership-not-code/
 ---
 

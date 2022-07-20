@@ -2,6 +2,7 @@
 title: Tips for effective communication in distributed workplaces
 date: "2021-10-31T17:00:00.000Z"
 description: "Communicating using a chat service is different compared to being in the same office. Here is what I learned when trying to make my communication with remote teammates more effective! 🚀"
+summary: "Communicating using a chat service is different compared to being in the same office. Here is what I learned when trying to make my communication with remote teammates more effective! 🚀"
 aliases: /20211031-com-distributed/
 categories: 
     - 'Remote working'

@@ -33,4 +33,4 @@ url = "https://twitter.com/elleflorio"
 [params.plausible]
   enable = true  # Whether to enable plausible tracking
   domain = "florio.dev"
-  selfhosted_domain = "https://plausible.elleflorio.synology.me"  # Self-hosted plausible domain
+  selfhosted_domain = "plausible.elleflorio.synology.me"  # Self-hosted plausible domain

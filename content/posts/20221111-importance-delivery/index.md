@@ -1,6 +1,6 @@
 ---
 title: The importance of delivery
-date: "2022-11-11T16:00:00.000Z"
+date: "2022-11-11T00:00:00.000Z"
 description: 'Because delivering a "good enough" product is better than not delivering a "perfect" product. 🔥'
 summary: 'Because delivering a "good enough" product is better than not delivering a "perfect" product. 🔥'
 categories: 
